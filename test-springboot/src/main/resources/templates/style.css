@@ -1,0 +1,65 @@
+/* Style untuk body */
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #222;
+  color: #fff;
+}
+
+/* Style untuk container */
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  background-color: #333;
+  padding: 110px;
+  border: 1px solid #444;
+  border-radius: 4px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style untuk form-group */
+.form-group {
+  margin-bottom: 20px;
+}
+
+/* Style untuk label */
+label {
+  font-weight: bold;
+  color: #fff;
+}
+
+/* Style untuk input */
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 4px;
+  border: 1px solid #555;
+  background-color: #444;
+  color: #fff;
+}
+
+/* Style untuk tombol */
+button {
+  width: 105%;
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  border-radius: 4px;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Style untuk judul halaman */
+h2 {
+  margin-bottom: 20px;
+  text-align: center;
+  color: #007bff;
+}
